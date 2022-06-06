@@ -1,6 +1,6 @@
 # 객체 생성과 클래스 변수
 
-!(생성)[https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png]
+![생성](https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png)
 
 클래스 선언 후 컴파일하면 객체를 생성할 설계도가 만들어진다.
 
