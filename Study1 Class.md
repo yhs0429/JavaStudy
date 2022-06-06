@@ -53,26 +53,29 @@
 - 필드는 생성자와 메소드 전체에서 사용되며 객체가 소멸되지 않는 한 객체와 함께 존재함.
 
 ```
-	// 고유데이터(제작회사,모델,색깔,최고속도)
+public class Car {
+	// 고유데이터
 	String company = "벤츠";
 	String model = "C63";
 	String color = "블랙";
 	int maxSpeed = 330;
 	
-	//상태 데이터(현재속도 , 엔진회전 수)
+	//상태 데이터
 	int speed;
 	int rpm;
-	
-	//부품(차체,엔진,타이어)
-	Body  body;
-	Engin  egine;
-	Trie  tire;
+}
 ```
 
 - 필드의 초기값은 필드선언 시 주어질수도 있고 , 생략될수도 있음.
 - 초기값 지정 안된 필드들은 객체 생성 시 자동으로 기본 초기값으로 설정됨.
 
 ![초기값](https://github.com/yhs0429/JavaStudy/blob/master/img/%ED%95%84%EB%93%9C%20%EC%B4%88%EA%B8%B0%EA%B0%92.png)
+
+
+
+**필드 사용**
+
+
 
 ---
 
