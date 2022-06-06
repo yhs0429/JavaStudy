@@ -1,5 +1,3 @@
-[객체 생성과 클래스 변수](#객체-생성과-클래스-변수)
-
 ## 객체 생성과 클래스 변수
 
 ![생성](https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png)
@@ -75,7 +73,32 @@ public class Car {
 
 **필드 사용**
 
+```
+public class CarExam{
+	public static void main(String[] args) {
+	//객체 생성
+	Car car = new Car();
+	
+	//필드값 읽기
+	System.out.println("제작회사 :"+car.company);
+	System.out.println("모델명 :"+car.model);
+	System.out.println("색깔 :"+car.color);
+	System.out.println("최고속도 :"+car.maxSpeed);
+	
+	//필드값 변경
+	car.speed = 150;
+	car.rpm = 2000;
+	System.out.println("수정된속도 :" +car.speed);
+	System.out.println("수정된 엔진회전 수 :" +car.rpm);
+	}
+}
+```
 
+- 사용방법은 변수와 동일하지만 변수는 자신이 선언된 생성자, 메소드 블록 내부에서만 사용할수 있는 반면
+
+  필드는 생성자와 모든 메소드에서 사용 가능.
+
+- 필드값을 사용하기 위해 우선 Car객체를 생성한다.
 
 ---
 
@@ -93,5 +116,7 @@ public class Car {
 
 **메소드**
 
-- 메소드는 객체의 동작에 해당하는 중괄호{} 블록이다.
-- 중괄호 블록은 메소드 이름을 가지고 있음.
+- 메소드는 객체의 동작에 해당하는 중괄호{} 블록이다, 중괄호 블록은 메소드 이름을 가지고 있음.
+- 메소드를 호출하면 중괄호 블록에 있는 모든 코드가 실행됨.
+- 필드를 읽고,수정하는 역활도 하지만 다른객체를 생성해서 다양한 기능을 수행함.
+- 객체 간의 데이터 전달의 수단으로 사용되며 외부로부터 매개값을 받을수도있고 실행 후 값을 리턴할수도있음
