@@ -10,13 +10,13 @@
 
 ✔유효선
 
-➡ 
+➡ [객체생성과 클래스 변수](#객체생성과-클래스-변수)
 
 #### 6.7 생성자 ~ 6.9 인스턴스 멤버와 this
 
 ✔김범우
 
-➡ [자료](https://github.com/dakdlzhf/JavaStudy/blob/6333b4cc8c8c1517996306090c39a391095c7901/6월 6일 생성자~메소드.md)
+➡ [자료](https://github.com/dakdlzhf/JavaStudy/blob/6333b4cc8c8c1517996306090c39a391095c7901/6%EC%9B%94%206%EC%9D%BC%20%EC%83%9D%EC%84%B1%EC%9E%90~%EB%A9%94%EC%86%8C%EB%93%9C.md)
 
 #### 6.10 정적멤버와 static ~ 6.12 패키지
 
@@ -30,7 +30,7 @@
 
 ➡ [자료](https://github.com/gkrtjs406/TIL/blob/78eac469cbad8bfabd396a6d7977f86679fcc3d1/Java/클래스(객체지향프로그래밍).md)
 
-## 객체생성과 클래스 변수
+## [객체생성과 클래스 변수]()
 
 ![생성](https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png)
 
