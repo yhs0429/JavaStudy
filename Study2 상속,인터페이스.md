@@ -10,7 +10,7 @@
 
 ✔김범우
 
-➡ [자료](https://github.com/dakdlzhf/JavaStudy/blob/6333b4cc8c8c1517996306090c39a391095c7901/6월 12일 메소드~접근자.md)
+➡ [자료](https://github.com/dakdlzhf/JavaStudy/blob/6333b4cc8c8c1517996306090c39a391095c7901/6%EC%9B%94%2012%EC%9D%BC%20%EB%A9%94%EC%86%8C%EB%93%9C~%EC%A0%91%EA%B7%BC%EC%9E%90.md)
 
 #### 7.7 타입 변환과 다형성 ~ 7.8 추상 클래스
 
