@@ -30,7 +30,7 @@
 
 ➡ [자료](https://github.com/gkrtjs406/TIL/blob/78eac469cbad8bfabd396a6d7977f86679fcc3d1/Java/클래스(객체지향프로그래밍).md)
 
-## [객체생성과 클래스 변수]()
+## 객체생성과 클래스 변수
 
 ![생성](https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png)
 
