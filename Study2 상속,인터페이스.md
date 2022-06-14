@@ -4,7 +4,7 @@
 
 ✔유효선
 
-➡ [상속(Inheritance) 개념](상속(Inheritance)-개념)
+➡ [상속(Inheritance) 개념](#상속inheritance-개념)
 
 #### 7.4 메소드 재정의 ~ 7.6 protected 접근 제한자
 
@@ -59,7 +59,7 @@
 
 부모클래스는 여러자식에게 상속할 수 있다.
 
-단, 부모클래스의 private 접근 제한자를 가지고 있는 필드 및 메소드는 자식이 쓸수 없고 부모와 자식이 서로 
+단, 부모클래스의 private 접근 제한자를 가지고 있는 필드 및 메소드는 자식이 쓸수 없고 부모와 자식이 서로
 
 다른 패키지에 존재한다면 부모클래스의 default 접근 제한자를 가지고 있는 필드 및 메소드를 자식이 쓸 수 없다.
 
@@ -100,8 +100,6 @@ public class Main {
 }
 ```
 
-
-
 ---
 
 ### 부모 생성자 호출
@@ -124,18 +122,18 @@ public class Main {
 public class people{
 	public String name;
 	public String ssn;
-	
+
 	public People(String name, String ssn){
 		this.name = name;
 		this.ssn = ssn;
 	}
 }
  // 부모 객체 생성 .
- 
+
 //자식 클래스
 public class Student extends People{
 	public int studentNo;
-	
+
 	public Student(String name, String ssn, int studentNo){
 	super(name, ssn);      // 부모생성자 호출
 	this.studentNo = studentNo;
@@ -148,7 +146,7 @@ public class StudentExample{
 	public static void main (String[]args){
 	//생성자 호출 순서 : 1. 부모생성자 , 2. 자식 생성자
 	Student student = new Student("홍길동", "123456-1231231" , 1);
-	
+
 	System.out.println("name : " + student.name);
 	System.out.println("ssn : "+ student.ssn);
 	//부모에서 물려받은 필드 출력
@@ -156,4 +154,3 @@ public class StudentExample{
 	}
 }
 ```
-
