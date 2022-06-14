@@ -4,7 +4,7 @@
 
 상속은 말그대로 부모클래스(상위클래스)가 자식클래스(하위클래스)에게 물려주는 것. (클래스확장)
 
-단 , 부모는 자식클래스의 필드 및 메소드를 쓸수 없다.
+단 , 부모는 자식클래스의 필드 및 메소드를 쓸 수 없다.
 
 ![상속](https://github.com/yhs0429/JavaStudy/blob/master/img/%EC%83%81%EC%86%8D%EA%B0%9C%EB%85%90.png)
 
@@ -25,9 +25,9 @@
 
 부모클래스는 여러자식에게 상속할 수 있다.
 
-단, 부모클래스의 private 접근 제한자를 가지고 있는 필드 및 메소드는 자식이 쓸수 없고 부모와 자식이 서로 다른 
+단, 부모클래스의 private 접근 제한자를 가지고 있는 필드 및 메소드는 자식이 쓸수 없고 부모와 자식이 서로 
 
-패키지에 존재한다면 부모클래스의 default 접근 제한자를 가지고 있는 필드 및 메소드를 자식이 쓸 수 없다.
+다른 패키지에 존재한다면 부모클래스의 default 접근 제한자를 가지고 있는 필드 및 메소드를 자식이 쓸 수 없다.
 
 ```
 //부모클래스
@@ -46,7 +46,6 @@ public class ParentCafe {
 package com.company;
 
 public class ChildCafe extends ParentCafe {
-    // 생성자
     // ChildCafe 가 ParentCafe 의 필드를 상속받아 사용할 수 있다.
     ChildCafe (String coffee, int price) {
         this.coffee = coffee;

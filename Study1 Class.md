@@ -1,3 +1,35 @@
+### [06] 클래스
+
+#### 6.1 객체지향프로그래밍 ~ 6.3 클래스선언
+
+✔조아라
+
+➡[자료](https://github.com/ara0114/TIL/blob/40f2e7b1517be7f4e3e24de6816ef7f023c2e470/JAVA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+
+#### 6.4 객체생성과 클래스변수 ~ 6.6 필드
+
+✔유효선
+
+➡ [자료](https://github.com/yhs0429/JavaStudy/blob/46678cf4ec569dabd41b8f1ae2ad782871ec908c/Study1 Class.md)
+
+#### 6.7 생성자 ~ 6.9 인스턴스 멤버와 this
+
+✔김범우
+
+➡ [자료](https://github.com/dakdlzhf/JavaStudy/blob/6333b4cc8c8c1517996306090c39a391095c7901/6월 6일 생성자~메소드.md)
+
+#### 6.10 정적멤버와 static ~ 6.12 패키지
+
+✔ 오인웅
+
+➡ [자료](https://github.com/mn00149/JavaStudy/blob/6da25828e31d271b36786e996f00e2f4f8cea345/study.md)
+
+#### 6.13 접근제한자 ~ 6.15 어노테이션
+
+✔ 이학선
+
+➡ [자료](https://github.com/gkrtjs406/TIL/blob/78eac469cbad8bfabd396a6d7977f86679fcc3d1/Java/클래스(객체지향프로그래밍).md)
+
 ## 객체 생성과 클래스 변수
 
 ![생성](https://github.com/yhs0429/JavaStudy/blob/master/img/%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.png)
