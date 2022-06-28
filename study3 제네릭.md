@@ -2,7 +2,7 @@
 
 ✔이학선
 
-➡[13.2~3 제네릭타입, 멀티타입파라미터]()
+➡[13.2~3 제네릭타입, 멀티타입파라미터](https://github.com/gkrtjs406/TIL/blob/master/Java/%EC%A0%9C%EB%84%A4%EB%A6%AD(Generic).md)
 
 ✔유효선
 
@@ -14,7 +14,7 @@
 
 ✔조아라
 
-➡[14.1~2 람다식 기분 문법]()
+➡[14.1~2 람다식 기분 문법](https://github.com/ara0114/TIL/blob/22069a756ba7e15ac7b5e674b85d394f835ec5ac/JAVA/LambdaExpression.md)
 
 ✔오인웅
 
@@ -22,7 +22,7 @@
 
 ✔임다빈
 
-➡[14.5~6 표준 API의 함수적인터페이스 , 메소드참조]()
+➡[14.5~6 표준 API의 함수적인터페이스 , 메소드참조](https://github.com/olabeann/JavaStudy/blob/master/0627%20%EB%9E%8C%EB%8B%A4%EC%8B%9D_%ED%95%A8%EC%88%98%EC%A0%81%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4_%20%EB%A9%94%EC%86%8C%EB%93%9C%20%EC%B0%B8%EC%A1%B0.md)
 
 ## 제네릭 메소드(<T,R> R method(T t))
 
