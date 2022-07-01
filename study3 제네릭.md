@@ -10,7 +10,7 @@
 
 ✔김범우
 
-➡[13.6~7 와일드카드타입 , 제네릭 타입의 상속과 구현]()
+➡[13.6~7 와일드카드타입 , 제네릭 타입의 상속과 구현](https://github.com/dakdlzhf/JavaGroupStudy/blob/master/%EA%B9%80%EB%B2%94%EC%9A%B0/3%EC%A3%BC%EC%B0%A8.md)
 
 ✔조아라
 
