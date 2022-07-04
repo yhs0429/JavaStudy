@@ -1,6 +1,6 @@
 ✔유효선
 
-➡[List컬렉션](#list-컬렉션)
+➡[List Collection](#list-컬렉션)
 
 ✔오인웅
 
@@ -8,7 +8,7 @@
 
 ✔조아라
 
-➡[]()
+➡[Map Colletion]()
 
 ✔이학선
 
@@ -18,7 +18,7 @@
 
 ➡[Linked List](https://github.com/dakdlzhf/JavaGroupStudy/blob/master/%EA%B9%80%EB%B2%94%EC%9A%B0/4%EC%A3%BC%EC%B0%A8.md)
 
-## List 컬렉션
+## List Collection
 
 **List 컬렉션은 객체를 일렬로 늘어놓은 구조**를 가지고 있다. 
 
