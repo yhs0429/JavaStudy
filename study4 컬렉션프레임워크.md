@@ -4,7 +4,7 @@
 
 ✔오인웅
 
-➡[]()
+➡[Set Collection](https://github.com/mn00149/JavaStudy/blob/master/study.md)
 
 ✔조아라
 
@@ -12,11 +12,11 @@
 
 ✔이학선
 
-➡[]()
+➡[TreeSet/TreeMap](https://github.com/gkrtjs406/TIL/blob/master/Java/TreeMapTreeSet.md)
 
 ✔김범우
 
-➡[]()
+➡[Linked List](https://github.com/dakdlzhf/JavaGroupStudy/blob/master/%EA%B9%80%EB%B2%94%EC%9A%B0/4%EC%A3%BC%EC%B0%A8.md)
 
 ## List 컬렉션
 

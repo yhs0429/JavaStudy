@@ -4,7 +4,7 @@
 
 ## 👨‍👩‍👧‍👦팀원
 
-김범우,오인웅,유효선,이학선,임다빈,조아라
+김범우,오인웅,유효선,이학선,조아라
 
 
 
@@ -32,5 +32,8 @@
 
 3회차 (22/06/27)
 
-- [제네릭,람다식](https://github.com/yhs0429/JavaStudy/blob/master/study3%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
+- [제네릭,람다식](https://github.com/yhs0429/JavaStudy/blob/master/study3%20%EC%A0%9C%EB%84%A4%EB%A6%AD%2C%EB%9E%8C%EB%8B%A4%EC%8B%9D.md)
 
+4회차 (22/07/04)
+
+- [컬렉션 프레임워크](https://github.com/yhs0429/JavaStudy/blob/master/study4%20%EC%BB%AC%EB%A0%89%EC%85%98%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC.md)
